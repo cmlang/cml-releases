@@ -6,6 +6,6 @@ written by the cmlang org on GitHub.
 Currently, only the CML compiler is available here.
 
 Each sub-directory should contain the packages of a specific tool or document.
-For tools, along with the .zip package, a .zip.sha256.txt should also be provided,
-with the SHA256 has code of the .zip file.
-Also, a .zip.notes.txt should also be available with the release notes.
+For tools, along with the .zip package, a .zip.sha256.txt file should be provided,
+with the SHA256 hash code of the .zip file.
+Also, a .zip.notes.txt file should also be available with the release notes.
