@@ -31,10 +31,10 @@ Features:
     - May reference concepts from another module.
     - A task can use a concept from another module.
 
-- Known Issues:
-    - IndexOutOfBoundsException if the task name isn't provided as the first
-      argument to the "cml" command.
-    - Not yet generating code for bidirectional associations.
-    - Not yet verifying the invariants of the metamodel.
-      and reporting them as compilation errors.
-    - No type checking.
+Known Issues:
+- IndexOutOfBoundsException if the task name isn't provided as the first
+  argument to the "cml" command.
+- Not yet generating code for bidirectional associations.
+- Not yet verifying the invariants of the metamodel.
+  and reporting them as compilation errors.
+- No type checking.
