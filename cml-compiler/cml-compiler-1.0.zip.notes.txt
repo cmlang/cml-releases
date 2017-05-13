@@ -1,6 +1,8 @@
 CML Compiler 1.0 Release Notes
 ------------------------------
 
+Release Date: 13 May 2017
+
 Features:
 - Supports CML Language 1.0 Draft:
     - Concepts
